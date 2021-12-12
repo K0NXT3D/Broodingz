@@ -4,7 +4,7 @@
 <h2>Curl using a random User Agent String from a file</h2>
 <p>I have a few more ideas, but I'm pretty much stumped as to why curl will handle some variables and not others.<br>
 I'm going to try the while IFS= read -r (file) next, but I'm not sure if that's going to solve anything.<br>
-All the files are included as well as a zip. You can run them locally as long as they're in seperate folders,<br>
+All the files are included as well as a zip. You can run them locally as long as they're in separate folders,<br>
 or run the local files locally and the remote on your server. The tracking works well, but for whatever reason,<br>
 that string issue.
   <p>The Variable Configuration:</p>
