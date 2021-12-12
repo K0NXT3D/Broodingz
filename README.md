@@ -12,7 +12,7 @@ that string issue.
   $ua = "Brozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.12011-10-16 20:23:00";
   $referer = "http://www.mysuperawesomewebsite.com";
 </code>  
-
+<p></p>
   <p>This is where the shit hits the fan when USERAGENT and/or REFERER are $variables.</p>
 <code>
   curl_setopt($curl, CURLOPT_USERAGENT, "Slowzilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.12011-10-16 20:23:00");
